@@ -1,0 +1,51 @@
+_repo: The-Russian-Grandmother-s-Wonder-Tales_45214
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
+    aliases:
+    - Benda, W. T.
+    - Benda, W. (Wladyslaw)
+    - Benda, Wladyslaw Theodore
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '36188'
+    url: http://www.gutenberg.org/2009/agents/36188
+    wikipedia: http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+covers:
+- cover_type: archival
+  image_path: 45214-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Houghton, Louise Seymour
+    alias: Houghton, Louise S. (Louise Seymour)
+    birthdate: 1838
+    deathdate: 1920
+    gutenberg_agent_id: '8250'
+    url: http://www.gutenberg.org/2009/agents/8250
+  - agent_name: Krauss, Friedrich S. (Friedrich Salomo)
+    aliases:
+    - Kraus, Friedrich S.
+    - Krauss, Friedrich Salomo
+    - Краусс, Фридрих С.
+    - Krauss, Salomon Friedrich
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '42957'
+    url: http://www.gutenberg.org/2009/agents/42957
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Salomon_Krauss
+description: ''
+gutenberg_issued: '2014-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45214'
+  lccn: '06032363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavs -- Folklore'
+- !lcc 'PZ'
+title: The Russian Grandmother's Wonder Tales
+url: http://www.gutenberg.org/ebooks/45214
