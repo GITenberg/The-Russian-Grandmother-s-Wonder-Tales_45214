@@ -35,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42957
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Salomon_Krauss
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45214#The-Russian-Grandmother-s-Wonder-Tales
 gutenberg_issued: '2014-03-25'
 gutenberg_type: Text
 identifiers:
